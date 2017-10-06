@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cfdbfbe-147e-4e96-bbb6-448b17c9533a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/integrationTest-1.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/selenium/pageobjects/Google.class" afterPath="$PROJECT_DIR$/target/classes/com/selenium/pageobjects/Google.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.selenium.ui.SearchGoogleTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.selenium.ui.SearchGoogleTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.selenium.ui.SearchGoogleTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.selenium.ui.SearchGoogleTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -406,7 +411,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="17" column="51" lean-forward="false" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
           <folding />
         </state>
       </provider>
