@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cfdbfbe-147e-4e96-bbb6-448b17c9533a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/integrationTest-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/selenium/pageobjects/Google.class" afterPath="$PROJECT_DIR$/target/classes/com/selenium/pageobjects/Google.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.selenium.ui.SearchGoogleTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.selenium.ui.SearchGoogleTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/com.selenium.ui.SearchGoogleTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/com.selenium.ui.SearchGoogleTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/selenium/ui/SearchGoogleTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/ui/SearchGoogleTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,21 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Google.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Google.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            <state relative-caret-position="60">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchGoogleTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SearchGoogleTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/ui/SearchGoogleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="20" column="108" lean-forward="false" selection-start-line="20" selection-start-column="108" selection-end-line="20" selection-end-column="108" />
               <folding />
             </state>
           </provider>
@@ -64,6 +59,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/GoogleSearchPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/ui/SearchGoogleTest.java" />
       </list>
     </option>
   </component>
@@ -392,6 +388,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/GoogleSearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -402,16 +406,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/ui/SearchGoogleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/selenium/pageobjects/Google.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
-          <caret line="17" column="45" lean-forward="false" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+          <caret line="20" column="108" lean-forward="false" selection-start-line="20" selection-start-column="108" selection-end-line="20" selection-end-column="108" />
           <folding />
         </state>
       </provider>

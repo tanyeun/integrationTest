@@ -18,7 +18,7 @@ public class SearchGoogleTest {
     public void setUp() throws Exception {
         System.setProperty("webdriver.chrome.driver", "driver/chromedriver");
         driver = new ChromeDriver();
-        driver.manage().window().maximize();
+        //driver.manage().window().maximize(); // this will fail in jenkins, since no physical browser exist
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
     @After
